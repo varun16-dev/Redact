@@ -1,0 +1,6 @@
+{
+  "name": "REDACT",
+  "description": "AI-powered personal privacy protection and face-match scanner for Indian users, generating cybercrime complaints and takedown requests compliant with DPDP Act 2023.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
